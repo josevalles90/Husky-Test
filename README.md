@@ -1,2 +1,0 @@
-# Husky-Test
-Husky Test
